@@ -3,34 +3,34 @@
 
 <!-- Badges -->
 <p>
-  <a href="https://github.com/harun181/100_plus_C_Problems/graphs/contributors">
+  <a href="https://github.com/harun181/Learn_with_Tutul/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
   </a>
-  <a href="https://github.com/harun181/100_plus_C_Problems/graphs/commit-activity">
+  <a href="https://github.com/harun181/Learn_with_Tutul/graphs/commit-activity">
     <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
   </a>
-  <a href="https://github.com/harun181/100_plus_C_Problems/network/members">
+  <a href="https://github.com/harun181/Learn_with_Tutul/network/members">
     <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
   </a>
-  <a href="https://github.com/harun181/100_plus_C_Problems/stargazers">
+  <a href="https://github.com/harun181/Learn_with_Tutul/stargazers">
     <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
   </a>
-  <a href="https://github.com/harun181/100_plus_C_Problems/issues/">
+  <a href="https://github.com/harun181/Learn_with_Tutul/issues/">
     <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
   </a>
-  <a href="https://github.com/harun181/100_plus_C_Problems/blob/master/LICENSE">
+  <a href="https://github.com/harun181/Learn_with_Tutul/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
   </a>
 </p>
 
 <h4>
-    <a href="https://github.com/harun181/100_plus_C_Problems">View Demo</a>
+    <a href="https://github.com/harun181/Learn_with_Tutul">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/harun181/100_plus_C_Problems">Documentation</a>
+    <a href="https://github.com/harun181/Learn_with_Tutul">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/harun181/100_plus_C_Problems/issues/">Report Bug</a>
+    <a href="https://github.com/harun181/Learn_with_Tutul/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/harun181/100_plus_C_Problems/issues/">Request Feature</a>
+    <a href="https://github.com/harun181/Learn_with_Tutul/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -42,7 +42,7 @@
 
 Here you can get all the code of programming Language from Learn With Tutul.
 <br>
-[Preview Here](https://github.com/harun181/100_plus_C_Problems)
+[Preview Here](https://github.com/harun181/Learn_with_Tutul)
 
 <!-- Screenshots -->
 
@@ -160,7 +160,7 @@ To run tests, run the following command
 Clone the project
 
 ```bash
-  git clone https://github.com/harun181/100_plus_C_Problems
+  git clone https://github.com/harun181/Learn_with_Tutul
 ```
 
 Go to the project directory
@@ -216,7 +216,7 @@ function App() {
 
 ## :wave: Contributing
 
-<a href="https://github.com/harun181/100_plus_C_Problems/graphs/contributors">
+<a href="https://github.com/harun181/Learn_with_Tutul/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Louis3797/awesome-readme-template" />
 </a>
 
@@ -228,7 +228,7 @@ See `contributing.md` for ways to get started.
 
 ### :scroll: Code of Conduct
 
-Please read the [Code of Conduct](https://github.com/harun181/100_plus_C_Problems)
+Please read the [Code of Conduct](https://github.com/harun181/Learn_with_Tutul)
 
 <!-- FAQ -->
 
@@ -254,7 +254,7 @@ Distributed under the no License. See LICENSE.txt for more information.
 
 Your Name - [@tutul181](https://twitter.com/tutul181) - mdtutul763@gmail.com
 
-Project Link: [https://github.com/harun181/100_plus_C_Problems](https://github.com/harun181/100_plus_C_Problems)
+Project Link: [https://github.com/harun181/Learn_with_Tutul](https://github.com/harun181/Learn_with_Tutul)
 
 <!-- Acknowledgments -->
 
